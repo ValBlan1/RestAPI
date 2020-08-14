@@ -11,6 +11,7 @@
 
         <classes>
             <class name="empservicescalls.TestAllEmp" />
+            <class name="empservicescalls.TestSingleEmployee" />
         </classes>
 
     </test>
